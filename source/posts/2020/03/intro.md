@@ -8,7 +8,7 @@ author: gruebite
 layout: post.hbs
 ---
 
-I have been participating in the [2020 7DRL](https://7drl.com/) for over a decade now (in the past I went by the alias "jab"). It's an event I look forward to every year, it's a great testbed for ideas and a good spark. So, after successfully submitting [Sow](https://guebite.itch.io/sow) for the [2020 7DRL](https://itch.io/jam/7drl-challenge-2020), I find myself wanting more.
+I have been participating in the [2020 7DRL](https://7drl.com/) for over a decade now (in the past I went by the alias "jab"). It's an event I look forward to every year. It's a fantastic testbed for ideas and a good spark for more ideas. So, after successfully submitting [Sow](https://guebite.itch.io/sow) for the [2020 7DRL](https://itch.io/jam/7drl-challenge-2020), I find myself wanting more.
 
 A few years ago, back in 2011, a few of us in #rgrd did a [1-day Roguelike](http://www.roguebasin.com/index.php?title=1DRL_Challenge,_December_2011). It was a lot of fun and I am considering hosting something like this on Itch: a monthly 1DRL.
 
