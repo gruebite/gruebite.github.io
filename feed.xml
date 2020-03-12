@@ -12,6 +12,15 @@
 		<atom:link href="http://gruebite.github.io/feed.xml" rel="self" type="application/rss+xml" />
 		<!--<lastBuildDate></lastBuildDate>-->
 			<item>
+				<title>Idea: Protowyrm</title>
+				<dc:creator>gruebite</dc:creator>
+                <description>Omnidirectional snake set in space</description>
+                <description></description>
+				<pubDate>2020-03-12</pubDate>
+				<link>http://gruebite.github.io/posts/2020/03/protowyrm</link>
+				<guid isPermaLink="true">http://gruebite.github.io/</guid>
+			</item>
+			<item>
 				<title>Intro</title>
 				<dc:creator>gruebite</dc:creator>
                 <description>A Prototype in a Day or So</description>
