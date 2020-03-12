@@ -1,0 +1,24 @@
+<!DOCTYPE html>
+<html>
+    {{> head}}
+    <body>
+        <div class="container">
+            {{> header}}
+            <div class="pagination">
+                <div class="page-elem">
+                {{#if next}}
+                    <a href="/{{next.path}}">Prev: {{next.title}}</a>
+                {{/if}}
+                </div>
+                <div class="page-elem">
+                {{#if previous}}
+                    <a href="/{{previous.path}}">Next: {{previous.title}}</a>
+                {{/if}}
+                </div>
+            </div>
+            <center><h1 class="title">{{title}}{{#if description}} - {{{description}}}{{/if}}</h1></center>
+            <div class="contents">{{{contents}}}</div>
+            {{> footer}}
+        </div>
+    </body>
+</html>
