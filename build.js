@@ -38,15 +38,15 @@ metalsmith(__dirname)
         ]
     }))
     .use(collections({
-        articles: {
-            pattern: 'articles/**/*.md',
+        posts: {
+            pattern: 'posts/**/*.md',
             sortBy: 'publishedDate',
             reverse: true
         }
     }))
     .use(pagination({
-        'collections.articles': {
-            perPage: 1,
+        'collections.posts': {
+            perPage: 5,
             first: 'index.html',
             path: 'page/:num/index.html',
             layout: 'index.hbs'
