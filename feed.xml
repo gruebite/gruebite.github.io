@@ -1,0 +1,24 @@
+<?xml version="1.0" encoding="utf-8"?>
+<rss version="2.0"
+	xmlns:atom="http://www.w3.org/2005/Atom"
+	xmlns:dc="http://purl.org/dc/elements/1.1/"
+	xmlns:sy="http://purl.org/rss/1.0/modules/syndication/">
+	<channel>
+		<title>gruebite</title>
+		<description>gruebite's static site</description>		
+		<sy:updatePeriod>daily</sy:updatePeriod>
+		<sy:updateFrequency>1</sy:updateFrequency>
+		<link>http://gruebite.github.io</link>
+		<atom:link href="http://gruebite.github.io/feed.xml" rel="self" type="application/rss+xml" />
+		<!--<lastBuildDate></lastBuildDate>-->
+			<item>
+				<title>Intro</title>
+				<dc:creator>gruebite</dc:creator>
+                <description>A Prototype in a Day or So</description>
+                <description></description>
+				<pubDate>2020-03-10</pubDate>
+				<link>http://gruebite.github.io/articles/2020/03/intro</link>
+				<guid isPermaLink="true">http://gruebite.github.io/</guid>
+			</item>
+	</channel>
+</rss>
