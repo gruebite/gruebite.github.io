@@ -55,6 +55,13 @@ img {
 a { color: #eee; text-decoration: underline; }
 a:hover { color: #111; background-color: #eee; }
 
+video {
+  width: 600px;
+  height: 100%;
+  display: block;
+  margin: 21px auto 21px 0px;
+}
+
 .container {
   max-width: -webkit-calc(610px - (0px * 2));
   max-width: calc(610px - (0px * 2));
