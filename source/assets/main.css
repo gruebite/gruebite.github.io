@@ -57,9 +57,9 @@ a:hover { color: #111; background-color: #eee; }
 
 video {
   width: 600px;
-  height: 400px;
+  height: 100%;
   display: block;
-  margin: 0 auto;
+  margin: 21px auto 21px 0px;
 }
 
 .container {

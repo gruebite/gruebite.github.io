@@ -1,7 +1,7 @@
 ---
 title: "Prototype: Protowyrm"
 description: Omnidirectional snake set in space
-tags: prototype game
+tags: prototype implementation
 publishedDate: 2020-03-13
 modifiedDate: 2020-03-13
 author: gruebite
