@@ -12,39 +12,12 @@
 		<atom:link href="http://gruebite.github.io/feed.xml" rel="self" type="application/rss+xml" />
 		<!--<lastBuildDate></lastBuildDate>-->
 			<item>
-				<title>Idea: Inversive (pending name)</title>
-				<dc:creator>gruebite</dc:creator>
-                <description>Negative space dungeon crawler</description>
-                <description></description>
-				<pubDate>2020-03-17</pubDate>
-				<link>http://gruebite.github.io/posts/2020/03/inversive</link>
-				<guid isPermaLink="true">http://gruebite.github.io/</guid>
-			</item>
-			<item>
-				<title>Prototype: Protowyrm</title>
-				<dc:creator>gruebite</dc:creator>
-                <description>Omnidirectional snake set in space</description>
-                <description></description>
-				<pubDate>2020-03-13</pubDate>
-				<link>http://gruebite.github.io/posts/2020/03/protowyrm_prototype</link>
-				<guid isPermaLink="true">http://gruebite.github.io/</guid>
-			</item>
-			<item>
-				<title>Idea: Protowyrm</title>
-				<dc:creator>gruebite</dc:creator>
-                <description>Omnidirectional snake set in space</description>
-                <description></description>
-				<pubDate>2020-03-12</pubDate>
-				<link>http://gruebite.github.io/posts/2020/03/protowyrm_idea</link>
-				<guid isPermaLink="true">http://gruebite.github.io/</guid>
-			</item>
-			<item>
 				<title>Intro</title>
 				<dc:creator>gruebite</dc:creator>
-                <description>A Prototype in a Day or So</description>
+                <description>Introduction</description>
                 <description></description>
 				<pubDate>2020-03-10</pubDate>
-				<link>http://gruebite.github.io/posts/2020/03/intro</link>
+				<link>http://gruebite.github.io/posts/2020/06/intro</link>
 				<guid isPermaLink="true">http://gruebite.github.io/</guid>
 			</item>
 	</channel>
