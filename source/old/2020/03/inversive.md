@@ -12,4 +12,6 @@ One thing you have to keep in mind when building a dungeon crawler and generatin
 
 In Inversive the map is a monochromatic map, where you can walk on either color with the opposing color being the walls. The specific details of the mechanics I haven't decided on yet, but I would like moving between spaces to play a huge role. We'll see! The prototype will have a random monochromatic map and the ability to move between spaces with some effect. Perhaps at that point I'll find some interesting ways to play the existing elements.
 
+I will be starting this prototype on the 23rd, since I am busy the remainder of the week.
+
 -gruebite
