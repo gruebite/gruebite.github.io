@@ -1,6 +1,6 @@
 ---
 title: About
-date: 2020-03-11
+date: 2021-03-25
 author: gruebite
 layout: page.hbs
 ---
@@ -11,7 +11,5 @@ I make games with a focus on minimalism and emergence. I use this site to share 
 **itch.io**: https://gruebite.itch.io
 
 **twitter**: https://twitter.com/gruebite
-
-**twitch**: https://twitch.tv/gruebite
 
 **email**: gruebite@gmail.com
